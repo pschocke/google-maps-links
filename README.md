@@ -19,7 +19,7 @@ composer require pschocke/google-maps-links
 You can search for a location or coordinates. Optionally you can add a place id that google maps will use if it can't find your specified location/coordinates
 
 ``` php
-$gMapsLocation = new pschocke\LaravelGoogleMapsLinks\GMapsLocation();
+$gMapsLocation = new pschocke\GoogleMapsLinks\GMapsLocation();
 
 // Get the link to a specific search location
 $link = $gMapsLocation->location('Towerbridge');
