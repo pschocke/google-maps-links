@@ -4,7 +4,6 @@ namespace pschocke\GoogleMapsLinks\Tests;
 
 use PHPUnit\Framework\TestCase;
 use pschocke\GoogleMapsLinks\GMapsDirection;
-use pschocke\GoogleMapsLinks\GMapsLocation;
 
 class DirectionTest extends TestCase
 {
