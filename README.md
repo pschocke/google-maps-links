@@ -73,7 +73,8 @@ $link = $gMapsMap->center('-33.712206', '150.311941')->layer('transit')->basemap
 #### Street View
 
 You can create a link to directly open a street view panorama
-```
+
+```php
 $gMapsStreetView = new pschocke\GoogleMapsLinks\GMapsStreetView();
 
 // Get the link to display a panorama from a viewpoint cooridnate
