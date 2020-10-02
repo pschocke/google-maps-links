@@ -3,7 +3,6 @@
 namespace pschocke\GoogleMapsLinks\Tests;
 
 use PHPUnit\Framework\TestCase;
-use pschocke\GoogleMapsLinks\GMapsLocation;
 use pschocke\GoogleMapsLinks\GMapsStreetView;
 
 class StreetViewTest extends TestCase
